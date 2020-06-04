@@ -1,27 +1,13 @@
 
 {
 
-
-
-
- "Test":{
-    "name":"ancapG",
-    "x":-13848,
-    "y":18833,
-    "width":49,
-    "height":31,     
- },
-
- "name":{
-    "name":"nome",
-    "x":0,
-    "y":0,
-    "width":0,
-    "height":0
- }
-
-
-
+ "Anomenos":{
+    "name":"Anomenos",
+    "x":-14336,
+    "y":20688,
+    "width":51,
+    "height":78
+        }
 
 
 }
