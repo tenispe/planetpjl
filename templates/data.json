@@ -17,12 +17,12 @@
     "height":218
         },
  
- "nome":{
-    "name":"nome",
-    "x":0,
-    "y":0,
-    "width":0,
-    "height":0
+ "bandeira":{
+    "name":"bandeira",
+    "x":-14448,
+    "y":20830,
+    "width":512,
+    "height":256
         },
  
  "nome":{
