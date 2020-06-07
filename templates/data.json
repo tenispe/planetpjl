@@ -1,12 +1,12 @@
 
 {
 
- "dragau":{
-    "name":"dragau",
+ "bloco":{
+    "name":"bloco",
     "x":-13870,
     "y":20533,
-    "width":122,
-    "height":78
+    "width":186,
+    "height":171
         },
  
  "bixao":{
