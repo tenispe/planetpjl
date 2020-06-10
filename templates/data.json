@@ -24,21 +24,12 @@
     "width":512,
     "height":256
         },
- 
- "membros":{
-    "name":"membros1",
-    "x":-14341,
-    "y":21090,
-    "width":301,
-    "height":194
-        },
- 
- "nome":{
-    "name":"nome",
-    "x":0,
-    "y":0,
-    "width":0,
-    "height":0
+ "everton":{
+    "name":"heybro",
+    "x":-14190,
+    "y":21138,
+    "width":74,
+    "height":72
         },
  
  "nome":{
