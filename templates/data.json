@@ -32,12 +32,12 @@
     "height":72
         },
  
- "nome":{
-    "name":"nome",
-    "x":0,
-    "y":0,
-    "width":0,
-    "height":0
+ "membros":{
+    "name":"membros1",
+    "x":-14341,
+    "y":21090,
+    "width":301,
+    "height":194
         },
  
  "Veio":{
