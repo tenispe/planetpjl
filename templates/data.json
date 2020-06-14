@@ -56,12 +56,12 @@
     "height":158
         },
  
-  "fantasmo":{
-    "name":"fantasmo",
-    "x":-13740,
-    "y":20580,
-    "width":61,
-    "height":190
+  "a":{
+    "name":"a",
+    "x":-14526,
+    "y":21086,
+    "width":185,
+    "height":382
         }
 
 }
