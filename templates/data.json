@@ -25,11 +25,11 @@
     "height":256
         },
  "everton":{
-    "name":"heybro",
-    "x":-14190,
-    "y":21138,
-    "width":74,
-    "height":72
+    "name":"bahiafz",
+    "x":-7501,
+    "y":2157,
+    "width":365,
+    "height":242
         },
  
   "zaimon":{
@@ -40,12 +40,12 @@
     "height":72
         },
  
- "membros":{
-    "name":"membros1",
-    "x":14341,
-    "y":21090,
-    "width":301,
-    "height":194
+ "none":{
+    "name":"none",
+    "x":0,
+    "y":0,
+    "width":0,
+    "height":0
         },
  
  "Veio":{
