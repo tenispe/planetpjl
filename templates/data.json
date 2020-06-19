@@ -40,6 +40,14 @@
     "height":72
         },
  
+ "miranha":{
+    "name":"miranha",
+    "x":-13931,
+    "y":21085,
+    "width":246,
+    "height":384
+        },
+ 
  "none":{
     "name":"none",
     "x":0,
