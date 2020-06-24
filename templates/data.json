@@ -8,12 +8,21 @@
     "width":122,
     "height":78
         },
+ 
  "nuvem":{
     "name":"nuvem",
     "x":-14183,
     "y":20314,
     "width":65,
     "height":60
+        },
+ 
+"nuvem2":{
+    "name":"nuvem2",
+    "x":-13954,
+    "y":20513,
+    "width":175,
+    "height":127
         },
  
  "bixao":{
