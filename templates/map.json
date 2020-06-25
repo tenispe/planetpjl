@@ -47,12 +47,12 @@
     "height":384
         },
  
- "none":{
-    "name":"none.png",
-    "x":0,
-    "y":0,
-    "width":0,
-    "height":0
+ "major":{
+    "name":"majorkek.png",
+    "x":-14833,
+    "y":21158,
+    "width":336,
+    "height":551
         },
  
  "Veio":{
