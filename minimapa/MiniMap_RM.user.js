@@ -2,7 +2,7 @@
 // @name         MiniMap_RM
 // @namespace    http://tampermonkey.net/
 // @version      10/10
-// @description  Aquisicao de minimap atraves de furto a mao armada. OK!
+// @description  Aquisicao de minimap atraves de furto qualificado. OK! Moscow perdeu. 
 // @author       Pony nem eu
 // @include      *://pixelplanet.fun/*
 // @include      *://fuckyouarkeros.fun/*
