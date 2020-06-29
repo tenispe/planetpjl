@@ -10,7 +10,7 @@
 	    "images":"https://raw.githubusercontent.com/EndlessNightNLR/endlessnightnlr.github.io/master/images/",
 		"color" :"aqua",
 		"type"	:2
-	};
+	},
   "furtorj":{
 	    "data"  :"https://raw.githubusercontent.com/tenispe/planetpjl/master/templates/map.json",
 	    "images":"https://raw.githubusercontent.com/tenispe/planetpjl/master/images/",
