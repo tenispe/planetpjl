@@ -64,6 +64,13 @@
     "height":551
         },
  
+"Mural":{
+    "name":"mural.png",
+    "x":-14341,
+    "y":21090,
+    "width":301,
+    "height":403
+        },
  
  "Veio":{
     "name":"Veio.png",
