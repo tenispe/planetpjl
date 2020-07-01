@@ -6,19 +6,19 @@
     "width":0,
     "height":0
         },
+ "Void/nuvem":{
+    "name":"eta.png",
+    "x":-14102,
+    "y":20487,
+    "width":185,
+    "height":382
+        },
  "1":{
     "name":"1.png",
     "x":-13931,
     "y":21085,
     "width":122,
     "height":78
-        },
- "eta":{
-    "name":"eta.png",
-    "x":-14102,
-    "y":20487,
-    "width":185,
-    "height":382
         },
  "raposa":{
     "name":"raar.png",
