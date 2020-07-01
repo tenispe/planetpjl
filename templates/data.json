@@ -1,5 +1,29 @@
 
 {
+ 
+ "none":{
+    "name":"none",
+    "x":0,
+    "y":0,
+    "width":0,
+    "height":0
+        },
+ 
+ "none":{
+    "name":"none",
+    "x":0,
+    "y":0,
+    "width":0,
+    "height":0
+        },
+ 
+ "none":{
+    "name":"none",
+    "x":0,
+    "y":0,
+    "width":0,
+    "height":0
+        },
 
  "1":{
     "name":"1",
@@ -17,13 +41,14 @@
     "height":403
         },
  
- "nuvem":{
-    "name":"nuvem",
-    "x":-14183,
-    "y":20314,
-    "width":65,
-    "height":60
-        },
+ "raposa":{
+    "name":"raar",
+    "x":-14526,
+    "y":21086,
+    "width":185,
+    "height":382
+        }
+ 
  
 "nuvem2":{
     "name":"nuvem2",
@@ -62,14 +87,6 @@
     "y":21085,
     "width":246,
     "height":384
-        },
- 
- "none":{
-    "name":"none",
-    "x":0,
-    "y":0,
-    "width":0,
-    "height":0
         },
  
  "Veio":{
