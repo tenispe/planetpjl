@@ -1,6 +1,5 @@
 
 {
- 
  "none":{
     "name":"none",
     "x":0,
@@ -8,7 +7,6 @@
     "width":0,
     "height":0
         },
- 
  "none":{
     "name":"none",
     "x":0,
@@ -16,15 +14,6 @@
     "width":0,
     "height":0
         },
- 
- "none":{
-    "name":"none",
-    "x":0,
-    "y":0,
-    "width":0,
-    "height":0
-        },
-
  "1":{
     "name":"1",
     "x":-13931,
@@ -32,7 +21,6 @@
     "width":122,
     "height":78
         },
- 
  "Mural":{
     "name":"mural",
     "x":-14341,
@@ -40,24 +28,20 @@
     "width":301,
     "height":403
         },
- 
  "raposa":{
     "name":"raar",
     "x":-14526,
     "y":21086,
     "width":185,
     "height":382
-        },
- 
- 
+        },  
 "nuvem2":{
     "name":"nuvem2",
     "x":-13954,
     "y":20513,
     "width":175,
     "height":127
-        },
- 
+        }, 
  "bixao":{
     "name":"bixao",
     "x":-13614,
@@ -65,7 +49,6 @@
     "width":167,
     "height":218
         },
- 
  "bandeira":{
     "name":"bandeira",
     "x":-14448,
@@ -80,7 +63,6 @@
     "width":365,
     "height":242
         },
- 
  "miranha":{
     "name":"miranha",
     "x":-13931,
@@ -88,7 +70,6 @@
     "width":246,
     "height":384
         },
- 
  "Veio":{
     "name":"Veio",
     "x":-14530,
@@ -96,7 +77,6 @@
     "width":146,
     "height":158
         },
- 
   "eta":{
     "name":"eta",
     "x":-14102,
