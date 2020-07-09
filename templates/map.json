@@ -13,12 +13,12 @@
     "width":1102,
     "height":788
         },
- "Void/nuvem":{
-    "name":"eta.png",
-    "x":-14102,
-    "y":20487,
-    "width":564,
-    "height":594
+ "MuieDo_Saz":{
+    "name":"char.png",
+    "x":-14022,
+    "y":21086,
+    "width":86,
+    "height":93
         },
  "raposa":{
     "name":"raar.png",
