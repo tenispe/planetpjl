@@ -76,6 +76,13 @@
     "y":20382,
     "width":146,
     "height":158
+           },
+ "ball":{
+    "name":"ball.png",
+    "x":-14516,
+    "y":21529,
+    "width":196,
+    "height":184
         }
  
 
