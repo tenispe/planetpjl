@@ -14,20 +14,6 @@
     "width":1361,
     "height":1674
         },
- "MuieDo_Saz":{
-    "name":"Char",
-    "x":-14022,
-    "y":21086,
-    "width":86,
-    "height":93
-        },
- "raposa":{
-    "name":"raar",
-    "x":-14526,
-    "y":21086,
-    "width":185,
-    "height":382
-        },
  "bixao":{
     "name":"bixao",
     "x":-13614,
@@ -35,54 +21,12 @@
     "width":167,
     "height":218
         },
- "Bandeirona":{
-    "name":"bandeira",
-    "x":-14448,
-    "y":20830,
-    "width":512,
-    "height":256
-        },
  "everton":{
     "name":"bahiafz",
     "x":-7501,
     "y":2157,
     "width":365,
     "height":242
-        },
- "Miranha":{
-    "name":"miranha",
-    "x":-13931,
-    "y":21085,
-    "width":246,
-    "height":384
-        },
- "RMchan":{
-    "name":"majorkek",
-    "x":-14833,
-    "y":21158,
-    "width":336,
-    "height":551
-        }, 
-"MuralMembros":{
-    "name":"mural_planet",
-    "x":-14341,
-    "y":21090,
-    "width":301,
-    "height":403
-        },
- "Veiofdp":{
-    "name":"Veio",
-    "x":-14530,
-    "y":20382,
-    "width":146,
-    "height":158
-           },
- "ball":{
-    "name":"ball",
-    "x":-14516,
-    "y":21529,
-    "width":196,
-    "height":184
         }
  
 
