@@ -1,11 +1,11 @@
  
 {
- "none":{
-    "name":"none",
-    "x":0,
-    "y":0,
-    "width":0,
-    "height":0
+ "inf":{
+    "name":"inf",
+    "x":-22768,
+    "y":21302,
+    "width":423,
+    "height":210
         },
   "Basecima":{
     "name":"nuvemcima",
