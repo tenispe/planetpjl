@@ -1,11 +1,11 @@
  
 {
- "none":{
-    "name":"none",
-    "x":0,
-    "y":0,
-    "width":0,
-    "height":0
+ "Ilha":{
+    "name":"Ilha",
+    "x":-13744,
+    "y":19633,
+    "width":350,
+    "height":526
         },
   "Basecima":{
     "name":"nuvemcima",
