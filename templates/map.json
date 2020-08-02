@@ -1,10 +1,10 @@
 {
- "greekrm":{
-    "name":"greekrm.png",
-    "x":-14293,
-    "y":21584,
-    "width":171,
-    "height":115
+ "0":{
+    "name":"0.png",
+    "x":0,
+    "y":0,
+    "width":0,
+    "height":0
         },
  "ilha":{
     "name":"ilha.png",
