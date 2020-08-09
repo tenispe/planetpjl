@@ -1,10 +1,10 @@
 {
- "0":{
-    "name":"0.png",
-    "x":0,
-    "y":0,
-    "width":0,
-    "height":0
+ "bunda":{
+    "name":"bunda.png",
+    "x":-13929,
+    "y":21648,
+    "width":324,
+    "height":234
         },
  "ilha":{
     "name":"ilha.png",
