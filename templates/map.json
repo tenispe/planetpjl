@@ -6,13 +6,6 @@
     "width":355,
     "height":59
         },
- "bunda":{
-    "name":"bunda.png",
-    "x":-13929,
-    "y":21648,
-    "width":324,
-    "height":234
-        },
  "ilha":{
     "name":"ilha.png",
     "x":-13744,
@@ -24,8 +17,8 @@
     "name":"nuvemcima.png",
     "x":-14897,
     "y":20041,
-    "width":1361,
-    "height":1674
+    "width":1360,
+    "height":1888
         },
  "everton":{
     "name":"bahiafz.png",
