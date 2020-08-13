@@ -20,7 +20,14 @@
     "width":350,
     "height":526
         },
-  "Basecima":{
+ "homi":{
+    "name":"homi.png",
+    "x":-15954,
+    "y":20627,
+    "width":332,
+    "height":331
+        },
+    "Basecima":{
     "name":"nuvemcima.png",
     "x":-14897,
     "y":20041,
