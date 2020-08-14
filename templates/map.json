@@ -20,6 +20,13 @@
     "width":350,
     "height":526
         },
+ "sharingan":{
+    "name":"sharingan.png",
+    "x":-15019,
+    "y":22192,
+    "width":351,
+    "height":351
+        },
  "homi":{
     "name":"homi.png",
     "x":-15954,
