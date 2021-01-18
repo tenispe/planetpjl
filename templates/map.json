@@ -1,4 +1,11 @@
 {
+"QR_L":{
+    "name":"qr.png",
+    "x":-73,
+    "y":-65,
+    "width":99,
+    "height":99
+        },
 "Mega_Flag":{
     "name":"Mega_Flag_2.0.png",
     "x":-9507,
