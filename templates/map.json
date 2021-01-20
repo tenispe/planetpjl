@@ -90,6 +90,13 @@
     "width":110,
     "height":129
         },
+ "Cross":{
+    "name":"Cross.png",
+    "x":-18089,
+    "y":-22838,
+    "width":95,
+    "height":134
+        },
  "MulherImensa":{
     "name":"major2.png",
     "x":-15594,
