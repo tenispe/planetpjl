@@ -83,6 +83,13 @@
     "width":141,
     "height":81
         },
+ "Flag2":{
+    "name":"Flag2.png",
+    "x":-18042,
+    "y":-23452,
+    "width":153,
+    "height":119
+        },
  "Alce":{
     "name":"Alce.png",
     "x":-17965,
