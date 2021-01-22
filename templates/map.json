@@ -97,6 +97,13 @@
     "width":153,
     "height":119
         },
+ "Bola":{
+    "name":"Bola.png",
+    "x":-18053,
+    "y":-23285,
+    "width":185,
+    "height":219
+        },
  "Alce":{
     "name":"Alce.png",
     "x":-17965,
