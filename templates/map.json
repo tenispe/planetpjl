@@ -111,6 +111,13 @@
     "width":110,
     "height":129
         },
+ "Brasao":{
+    "name":"Brasao.png",
+    "x":-18340,
+    "y":-23460,
+    "width":196,
+    "height":188
+        },
  "Cross":{
     "name":"Cross.png",
     "x":-18089,
