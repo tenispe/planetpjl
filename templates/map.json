@@ -139,6 +139,13 @@
     "width":303,
     "height":441
         },
+ "discord":{
+    "name":"discord.png",
+    "x":-18637,
+    "y":-22760,
+    "width":507,
+    "height":171
+        },
  "MulherImensa":{
     "name":"major2.png",
     "x":-15594,
