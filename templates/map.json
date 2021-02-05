@@ -153,6 +153,13 @@
     "width":105,
     "height":167
         },
+ "arvore":{
+    "name":"arvore.png",
+    "x":-18927,
+    "y":-23163,
+    "width":169,
+    "height":277
+        },
  "MulherImensa":{
     "name":"major2.png",
     "x":-15594,
