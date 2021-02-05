@@ -146,6 +146,13 @@
     "width":507,
     "height":171
         },
+ "ilha":{
+    "name":"ilha.png",
+    "x":-18561,
+    "y":-23255,
+    "width":105,
+    "height":167
+        },
  "MulherImensa":{
     "name":"major2.png",
     "x":-15594,
