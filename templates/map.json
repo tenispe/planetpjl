@@ -97,6 +97,13 @@
     "width":365,
     "height":242
         },
+ "Snowland":{
+    "name":"snowland.png",
+    "x":2080,
+    "y":-13516,
+    "width":218,
+    "height":246
+        },
  "MulherImensa":{
     "name":"major2.png",
     "x":-15594,
