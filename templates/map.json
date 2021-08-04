@@ -97,6 +97,13 @@
     "width":365,
     "height":242
         },
+ "borda":{
+    "name":"borda.png",
+    "x":-31113,
+    "y":18375,
+    "width":334,
+    "height":338
+        },
  "Snowland":{
     "name":"snowland.png",
     "x":2080,
